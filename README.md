@@ -1,0 +1,1 @@
+# CRNN-for-Hindi-Text-Recognition
